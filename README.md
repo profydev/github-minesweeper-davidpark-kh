@@ -1,3 +1,12 @@
-# GitHub Minesweeper
+# Rental Property Analysis ROI
 
-Gain hands-on experience with a professional Git workflow used in many real-world teams with the help of a bot teammate. Find more information at [Profy.dev](https://profy.dev/project/github-minesweeper).
+1. Income
+	1. Rental income - primary (figure out how much it is)
+		1. Duplex purchase price ($200k)
+			1. Each unit rents for $1000/mo each = $2000/mo
+** 		2. Total monthly income = $2000/mo**
+2. Laundry income
+	3. Storage income
+	4. Misc
+2. Monthly Expenses
+	1. Tax
